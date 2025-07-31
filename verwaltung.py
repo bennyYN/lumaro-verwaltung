@@ -3,7 +3,7 @@ from tkinter import messagebox
 import os
 import json
 import re
-from PIL import Image  # Pillow installieren mit: pip install pillow
+from PIL import Image
 import datetime
 
 DARK_BG = "#1e1e1e"
